@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryDark">@color/statusbar</item>
+    </style>
+
+    <!-- Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#646464</color>
+    <color name="actionbar">#4FC3F7</color>
+    <color name="statusbar">#03A9F4</color>
+    <color name="background">#4FC3F7</color>
+    <color name="swiperefresh">#4FC3F7</color>
+
+</resources>
